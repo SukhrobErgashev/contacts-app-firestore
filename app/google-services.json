@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949585976945",
+    "project_id": "contacts-b149d",
+    "storage_bucket": "contacts-b149d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949585976945:android:9669ee637a5f00177245d0",
+        "android_client_info": {
+          "package_name": "dev.sukhrob.firestore_contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949585976945-7pahrm1dcaeicccsv7jrtdts82h2rect.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIxmuSp_H7HcX-1FLlnWd1Kpml8wJl5eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949585976945-7pahrm1dcaeicccsv7jrtdts82h2rect.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
